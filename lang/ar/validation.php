@@ -179,6 +179,9 @@ return [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
+        'g-recaptcha-response'=>[
+            'required'=>'يجب عليك التحقق من أنك لست روبوت'
+        ]
     ],
 
     /*
